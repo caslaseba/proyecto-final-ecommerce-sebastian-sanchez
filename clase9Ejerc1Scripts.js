@@ -1,5 +1,10 @@
 console.log("Ok");
 
+// // cambiar nombre de etiqueta
+// document.getElementById("labnum1").textContent = "Num1";
+// // cambiar color de etiqueta con codigo de color
+// document.getElementById("labnum1").style.color = "#21bd0f";
+
 /* Operaciones */
 //obtenemos los operandos desde los inputs
 let numero1 = parseFloat(document.getElementById("num1").value);//convertimos a decimal el valor obtenido como texto
